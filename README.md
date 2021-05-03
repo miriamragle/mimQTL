@@ -1,9 +1,8 @@
-# Crosstalk between miRNA expression and DNA methylation drive the hormone-dependent phenotype of breast cancer
+# Crosstalk between miRNA expression and DNA methylation drives the hormone-dependent phenotype of breast cancer
 
-bioRxiv 2020
-https://doi.org/10.1101/2020.04.12.038182
-
-*Miriam Ragle Aure, Thomas Fleischer, Sunniva Bjørklund, Jørgen Ankill, Jaime A Castro-Mondragon, OSBREAC, Anne-Lise Børresen-Dale, Kristine K. Sahlberg, Anthony Mathelier, Xavier Tekpli and Vessela N. Kristesen*
+*Aure MR, Fleischer T, Bjørklund S, Ankill J, Castro-Mondragon JA; OSBREAC, Børresen-Dale AL, Tost J, Sahlberg KK, Mathelier A, Tekpli X, Kristensen VN.*
+Genome Med. 2021 Apr 29;13(1):72. doi: 10.1186/s13073-021-00880-4.
+PMID: 33926515 
 
 Contact: Miriam Ragle Aure,  m.r.aure@medisin.uio.no
 
